@@ -1,0 +1,28 @@
+.Nav{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 20px 0 10px -2px #000000;
+  height: 70px;
+}
+.Navbrand{
+ font-style: normal;
+ font-family: serif;
+  font-weight:bold ;
+
+
+}
+.footer{
+  position:absolute;
+left:0;
+bottom:0;
+right:0;
+}
+.Hero{
+  padding-top: 70px;
+  text-align: center;
+  
+}
+.herostatement{
+  font-weight: bold;
+  font-size: xx-large;
+  color: black;
+}
